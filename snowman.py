@@ -1,3 +1,7 @@
+// ================================
+//          ⁕ SnowmanPy ⁕
+// ================================
+
 import turtle
 
 t = turtle.Turtle()
@@ -115,7 +119,6 @@ t.begin_fill()
 arco(6.7, 33.11, 138.77)
 arco(121.09, 43.83, 270)
 t.end_fill()
-
 
 t.fillcolor("red")
 go(136.4, 63.04)
